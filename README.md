@@ -40,7 +40,7 @@ Looped a Ticket component using map() function in TicketList.js.
 ## Setup/Installation Requirements
 
 - Clone this [repository](https://github.com/jiwon-seattle/Help-queue-React.git) 
-- run $npm install and #npm start
+- run $npm install and $npm start
 
 ## Known Bugs
 
