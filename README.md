@@ -35,7 +35,7 @@ Declared import PropTypes from "prop-types" and each component's proptypes.
 Looped a Ticket component using map() function in TicketList.js.
 ## Screenshots
 
-<image src="help-queue\src\react.jpg" width="750px" />
+<image src="src/react.jpg" width="750px" />
 
 ## Setup/Installation Requirements
 
