@@ -6,9 +6,7 @@
 
 ## Description
 
-**Using the Sieve of Eratosthenes and recursion, given a number, write a method that returns all of the prime numbers less than that number.**
-
-As our diagram demonstrates, our application will start with the following functional components:
+As diagram below demonstrates, an application will start with the following functional components:
 
 Header: Our header will remain the same regardless of whether the user is looking at all tickets, a specific ticket, or the form for creating a new ticket.
 This will be a very small component, which is exactly what we want. Remember, our goal is to compose our application of many smaller components as opposed to fewer larger and cumbersome components.
